@@ -4,8 +4,6 @@
 
 
 
-## Images 
-
 
 <p align="center">
 
